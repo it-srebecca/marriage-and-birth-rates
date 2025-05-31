@@ -18,14 +18,14 @@ The fertility data was sourced from the [World Bank group](https://data.worldban
 
 - **/src/**  
   - `modelling.py`: Core functions for data preparation, ARIMA and VAR forecasting, Granger causality testing, and model evaluation.
-  - `viz.py`: Visualization utilities for highlighting model results.
+  - `viz.py`: Visualisation utilities for highlighting model results.
 
 ---
 
 ## Key Features
 
 - **Exploratory Data Analysis (EDA):**  
-  Visualizes historical trends in marriage prevalence and fertility rates for each European country, highlighting both parallel and divergent patterns.
+  Visualises historical trends in marriage prevalence and fertility rates for each European country, highlighting both parallel and divergent patterns.
 
 - **Time Series Forecasting:**  
   - **ARIMA Models:** Univariate forecasts for marriage and fertility rates.
@@ -35,7 +35,7 @@ The fertility data was sourced from the [World Bank group](https://data.worldban
   Assesses whether changes in one variable (e.g., fertility) can help predict changes in the other (e.g., marriage), and vice versa.
 
 - **Model Performance Comparison:**  
-  Quantifies the benefit of multivariate (VAR) modeling over univariate approaches, with country-level summaries and visualizations.
+  Quantifies the benefit of multivariate (VAR) modeling over univariate approaches, with country-level summaries and visualisations.
 
 ## Results Overview
 - **Most European countries show a long-term decline in both marriage prevalence and fertility rates, though the timing and magnitude vary.**
