@@ -1,0 +1,26 @@
+# Data handling
+pandas>=1.5
+numpy>=1.22
+yfinance>=0.2
+
+# Time series analysis
+statsmodels>=0.13
+scipy>=1.10
+
+# Causal inference & graph learning
+causal-learn>=0.1
+dowhy>=0.9
+econml>=0.14
+networkx>=3.0
+gcastle>=1.0.2  # optional, for graph-based causal discovery
+
+# Visualization
+matplotlib>=3.6
+seaborn>=0.12
+
+# Notebook support
+jupyterlab>=3.5
+
+
+pycountry>=0.1.2  # optional, for country data handling
+pycountry_convert>=0.7.2  # optional, for country code conversions
