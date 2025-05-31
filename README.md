@@ -12,8 +12,6 @@ This repository contains code and notebooks for analysing the relationship betwe
 The marriage data was sourced from [this Our World In Data article](https://ourworldindata.org/marriages-and-divorces#:~:text=Overall%2C%20we%20see%20a%20global,married%20or%20in%20a%20union.).
 The fertility data was sourced from the [World Bank group](https://data.worldbank.org/indicator/SP.DYN.TFRT.IN?end=2023&start=1960&view=chart).
 
-  The data sources are 
-
 - **/notebooks/**  
   - `eda.ipynb`: Exploratory Data Analysis (EDA) of marriage and fertility trends.
   - `analysis.ipynb`: Main notebook for time series modeling, forecasting, and Granger causality analysis.
