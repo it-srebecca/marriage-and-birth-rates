@@ -1,5 +1,7 @@
 # Marriage and Birth Rates in Europe: Time Series Analysis
 
+[This article](https://www.ft.com/content/43e2b4f6-5ab7-4c47-b9fd-d611c36dad74) and [this article](https://www.ft.com/content/cef1c8b4-b278-425a-88b4-99d37bd4439b) in the FT contain quite provocative claims: that falling birth rates might be due to falling marriage rates. I wanted to investigate these claims, and more broadly the relationship between marriage and fertility, and I did so with data.
+
 This repository contains code and notebooks for analysing the relationship between marriage prevalence and fertility rates across European countries using time series methods. The project combines exploratory data analysis, forecasting, and causality testing to provide insights into how marriage and fertility trends have evolved and interact over time.
 
 ---
