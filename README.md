@@ -1,6 +1,12 @@
 # Marriage and Birth Rates in Europe: Time Series Analysis
 
-[This article](https://www.ft.com/content/43e2b4f6-5ab7-4c47-b9fd-d611c36dad74) and [this article](https://www.ft.com/content/cef1c8b4-b278-425a-88b4-99d37bd4439b) in the FT contain quite provocative claims: that falling birth rates might be due to falling marriage rates. I wanted to investigate these claims, and more broadly the relationship between marriage and fertility, and I did so with data.
+[This article](https://www.ft.com/content/43e2b4f6-5ab7-4c47-b9fd-d611c36dad74) and [this article](https://www.ft.com/content/cef1c8b4-b278-425a-88b4-99d37bd4439b) in the FT contain quite provocative claims: that falling birth rates might be due to falling marriage rates. I enjoy contrarian claims, so I wanted to explore them myself using statistical methods. I attempt to shed some light on the question: _do we have a fertility problem, or a marriage problem_?
+
+However, interpreting statistical results is difficult, so nothing has been proved either way. Do people only get married because they want babies? Do people to marry only after they've had a baby? Or is the opposite true: that people only have babies in marriages?
+
+Now, statistics cannot untangle causal links, not without a proper controlled experiment. What I've done here instead is take a look at the predictive ability of 
+
+What I found tended to contradict the FT's claims, and it was this: that birth rates have been more useful in predicting marriage, and not the other way round. 
 
 This repository contains code and notebooks for analysing the relationship between marriage prevalence and fertility rates across European countries using time series methods. The project combines exploratory data analysis, forecasting, and causality testing to provide insights into how marriage and fertility trends have evolved and interact over time.
 
