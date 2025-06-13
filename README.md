@@ -31,6 +31,6 @@ The fertility data was sourced from the [World Bank group](https://data.worldban
 
 ## Results Overview
 - **Most European countries show a long-term decline in both marriage prevalence and fertility rates, though the timing and magnitude vary.**
-- **Granger causality tests reveal that, in some countries, changes in fertility can help predict changes in marriage, and vice versa.**
+- **Granger causality tests show that, in some countries, changes in fertility can help predict changes in marriage. The opposite is true but to a lesser extent.**
 - **VAR models often outperform univariate models, especially in countries where marriage and fertility trends are closely linked.**
 - **Country-specific results and interpretations are provided in the notebooks, highlighting demographic, social, and policy contexts.**
