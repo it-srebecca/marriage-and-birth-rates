@@ -2,7 +2,7 @@
 
 [This article](https://www.ft.com/content/43e2b4f6-5ab7-4c47-b9fd-d611c36dad74) and [this article](https://www.ft.com/content/cef1c8b4-b278-425a-88b4-99d37bd4439b) in the FT contain quite provocative claims: that falling birth rates might be "due to" a falling number of couples. I enjoy contrarian claims, so I wanted to explore the relationship between marriage and fertility myself using statistical methods. I attempt to shed some light on the question: _do we have a fertility problem, or a relationship problem_? Do people only get married because they want babies? Do people to marry only after they've had a baby? Or is the opposite true: that people only have babies in marriages?
 
-However, interpreting statistical results is difficult, and statistical methods alone cannot determine casality. What I've done here instead is take a look at the predictive ability of one of marriage or fertility for modelling the other. This may shed som light on aspects of the relationship between the two, although it will not tell the entire story, which is undoubtedly a complicated one. Both fertility and marriage are subsets of the general relationship between men and women, as well as culture and policy and economics. 
+However, interpreting statistical results is difficult, and statistical methods alone cannot determine casality. What I've done here instead is take a look at the predictive ability of one of marriage or fertility for modelling the other. This may shed som light on aspects of the relationship between the two, although it will not tell the entire story, which is undoubtedly a complicated one.
 
 ## Findings
 
